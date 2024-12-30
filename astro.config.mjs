@@ -11,4 +11,11 @@ export default defineConfig({
   adapter: node({
     mode: "standalone",
   }),
+  vite: {
+    build: {
+      rollupOptions: {
+        external: ["nodemailer"],
+      },
+    },
+  },
 });

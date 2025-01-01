@@ -5,34 +5,37 @@ pubDate: "Dec 31 2024"
 heroImage: "/blog-placeholder-3.jpg"
 ---
 
-    W związku z tym, że mam dziś trochę wolnego czasu, powysyłałem CV wraz z linkiem do strony <strong>bartekszukapracy.pl</strong>. Zacząłem również pierwsze szkolenie.
+W ostatnim czasie zdałem sobię sprawę, że chciałbym rozpocząć swoją karierę w IT jako WordPress Developer. W związku z tym na podstawie oczekiwań wymaganych przez pracodawców w ogłoszeniach o pracę, wykupiłem kilka szkoleń, z których uzyskam certyfikaty i doświadczenie. Proces ten będzie udokumentowany w tym blogu.
 
-## Kurs WordPress + Woocommerce + AI. 2024
+Zamierzam go rozpocząć już w
 
-    Z ciekawych rzeczy, o których się dowiedziałem mogę zaliczyć LottieFiles, które pozwala na wrzucanie animowanych ikonek na stronę.
+#### 1-go stycznia 2025 roku.
 
-    Zim wp. Ciekawe narzędzie do generowania stron przy użyciu AI.
+Czeka mnie wiele pracy i trudów, ale jestem gotów na to wyzwanie.
 
-    Dwie wtyczki do chrome ColorPick Eyedropper i WhatFont
+#### 30 dni, 235 godzin kursów, 1460 wykładów, 10 certyfikatów.
 
-    Prowadzący poleca zestaw z motywami ASTRA
+Harmonogram nauki
+Mając do dyspozycji 31 dni na przerobienie 235 godzin materiału, wyliczam że dziennie potrzebuję poświęcić około 7,6 godziny na naukę. To sporo, ale przy dobrej organizacji jest to wykonalne. Kluczowe będzie utrzymanie systematyczności i odpowiednie rozplanowanie przerw
 
-    Nie chciałbym wydawać pieniędzy na Hosting z którego nie będę korzystać, dlatego rozważam hosting własny na moim serverze Ubuntu.
+### Wybór technologii
 
-    https://ubuntu.com/tutorials/install-and-configure-wordpress#3-install-wordpress
+Zdecydowałem się skupić na trzech głównych obszarach:
 
-    Ten tutorial sugeruje rozwiązanie korzystające z Apache2, a na moim serverze korzystam z NGINX.
+- WordPress jako system do tworzenia stron
+- PHP w kontekście pisania wtyczek do WP
+- Cybersecurity
 
-    W związku z tym zamierzam wykorzystać właśnie to narzędzię w połącznieu z PHP-FPM dla Wordpress.
+### Dokumentacja procesu
 
-    https://developer.wordpress.org/advanced-administration/
+Do dokumentowania swojej drogi wybrałem blog postawiony na Astro. Będę tu dzielił się:
 
-    W związku z tym, że nie chcę marnować zasobów na instalowanie zdalnego pulpitu gnome do konfigurowania phpMyAdmin wykorzystam console.
+- Najciekawszymi znaleziskami z kursów
+- Praktycznymi wskazówkami
+- Własnymi przemyśleniami i wnioskami
+- Napotkanymi problemami i ich rozwiązaniami
 
-    Natrafiłem na problem z brakiem rozszerzenia mysqli
+### Następne kroki
 
-    Błąd przekierowuje na konfigurację PHP.
-
-    W związku z dużą ilością
-
-    Poza tym pierwsze 3 moduły kursu nie wniosły za dużo. Liczę że kolejne będą bardziej rozwojowe.
+Jutro rozpoczynam pierwszy kurs. Planuję zacząć od podstaw WordPress, aby mieć solidną bazę do dalszej nauki. Będę na bieżąco dokumentował swoje postępy i dzielił się zdobytą wiedzą.
+Trzymajcie kciuki za powodzenie projektu! 🚀

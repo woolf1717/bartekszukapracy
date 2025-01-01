@@ -5,24 +5,14 @@ pubDate: "Jan 01 2025"
 heroImage: "/blog-placeholder-3.jpg"
 ---
 
+##
+
+W ostatnim czasie zdałem sobię sprawę, że chciałbym rozpocząć swoją karierę w IT jako WordPress Developer. W związku z tym na podstawie oczekiwań wymaganych przez pracodawców w ogłoszeniach o pracę, wykupiłem kilka szkoleń, z których uzyskam certyfikaty i doświadczenie. Proces ten będzie udokumentowany w tym blogu. Zamierzam go rozpocząć już w <strong>1-go stycznia 2025 roku</strong>. Czeka mnie wiele pracy i trudów, ale jestem gotów na to wyzwanie.
+
+## 30 dni, 235 godzin kursów, 1460 wykładów, 10 certyfikatów.
+
 Dzisiejszy dzień zacząłem od wrzucenia na Linkedin posta i skonfigurowałem domenę na cyberdolks.
 
 Następnie zająłem się przerabianiem kursu
 
 https://www.udemy.com/course/kurs-wordpress-woocommerce-z-certyfikatem
-
-    W związku z tym, że mam dziś trochę wolnego czasu, powysyłałem CV wraz z linkiem do strony <strong>bartekszukapracy.pl</strong>. Zacząłem również pierwsze szkolenie.
-
-## Kurs WordPress + Woocommerce + AI. 2024
-
-## Paragraph
-
-Z ciekawych rzeczy, o których się dowiedziałem mogę zaliczyć LottieFiles, które pozwala na wrzucanie animowanych ikonek na stronę.
-
-Zim wp. Ciekawe narzędzie do generowania stron przy użyciu AI.
-
-Dwie wtyczki do chrome ColorPick Eyedropper i WhatFont
-
-Prowadzący poleca zestaw z motywami ASTRA
-
-Poza tym pierwsze 3 moduły kursu nie wniosły za dużo. Liczę że kolejne będą bardziej rozwojowe.

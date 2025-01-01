@@ -1,0 +1,55 @@
+---
+// Progress value (0-100)
+const progress = 3.6; // You can change this value or pass it as a prop
+---
+    
+<div class="progress-container"><h3>Pasek sukcesu (styczeń 2025r.)</h3>
+    <div class="progress-bar">
+        <div class="progress-fill" style={`width: ${progress}%`}>
+            <span class="progress-text">{progress}%</span>
+        </div>
+    </div>
+</div>
+
+<style>
+    .progress-container {
+        border: 2px solid rgb(var(--gray-dark));
+        border-radius: 10px;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        padding: 0 20px;
+        margin: 0;
+        background: white;
+        z-index: 1000;
+        text-align: center;
+        margin-left: 1em;
+        margin-right: 1em;
+        text-color: rgb(var(--gray-dark))
+    }
+
+    .progress-bar {
+        width: 100%;
+        height: 40px;
+        background-color: #f0f0f0;
+        overflow: hidden;
+        border-radius: 10px;
+        margin: 10px 0;
+    }
+
+    .progress-fill {
+        height: 100%;
+        background-color: #AC3992;
+        transition: width 0.3s ease-in-out;
+        border-radius: 10px;
+    }
+
+    .progress-text {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100%;
+        color: white;
+        font-size: 12px;
+    }
+</style> 

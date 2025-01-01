@@ -26,3 +26,14 @@ Dwie wtyczki do chrome ColorPick Eyedropper i WhatFont
 Prowadzący poleca zestaw z motywami ASTRA
 
 Poza tym pierwsze 3 moduły kursu nie wniosły za dużo. Liczę że kolejne będą bardziej rozwojowe.
+
+.jpg
+.png
+
+przerobienie takiej ilości kursów jest naprawde dużym wyzwaniem.
+
+Właściwie wszysktko co robiłem w kodzie narazie jest odzwierciedlone w CMS.
+
+Dziś zainstalowałem płatości z WooCommerce, AntispamBee, CookieYes Pixel dla meta WooPayments, Yoast SEO
+
+WEB P vs AVIF

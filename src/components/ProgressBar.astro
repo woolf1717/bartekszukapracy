@@ -1,9 +1,9 @@
 ---
-// Progress value (0-100)
-const progress = 3.6; // You can change this value or pass it as a prop
+const progress = 9.3; 
 ---
-    
-<div class="progress-container"><h3>Pasek sukcesu (styczeń 2025r.)</h3>
+
+<div class="progress-container" id="progressContainer">
+    <h3>Pasek sukcesu (styczeń 2025r.)</h3>
     <div class="progress-bar">
         <div class="progress-fill" style={`width: ${progress}%`}>
             <span class="progress-text">{progress}%</span>
@@ -13,7 +13,7 @@ const progress = 3.6; // You can change this value or pass it as a prop
 
 <style>
     .progress-container {
-        border: 2px solid rgb(var(--gray-dark));
+        border: 2px solid black;
         border-radius: 10px;
         bottom: 0;
         left: 0;
@@ -25,7 +25,7 @@ const progress = 3.6; // You can change this value or pass it as a prop
         text-align: center;
         margin-left: 1em;
         margin-right: 1em;
-        text-color: rgb(var(--gray-dark))
+        text-color: black
     }
 
     .progress-bar {

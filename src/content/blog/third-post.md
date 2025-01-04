@@ -65,8 +65,8 @@ Jestem szczególnie podekscytowany możliwością łączenia wiedzy technicznej 
 
 W trakcie realizacji szkolenia stworzyłem stronę dla agencji zajmującej się tworzeniem rozwiązań w CMS WordPress. Być może w przyszłości zapewni mi kilka zleceń: [wordpress-devyourweb.pl](https://wordpress-devyourweb.pl)
 
-### Progres wyzwania
+### Progres wyzwania i plany
 
-Trzy dni stycznia za mną, a udało się zrealizować już 11,9% miesięcznego celu. Kolejne dni przyniosą nowe wyzwania i jeszcze więcej praktycznej wiedzy do wykorzystania w projektach.
+Trzy dni stycznia za mną, a udało się zrealizować już 11,9% miesięcznego celu. Kolejne dni przyniosą nowe wyzwania i jeszcze więcej praktycznej wiedzy do wykorzystania w projektach. Już jutro rozpocznę kurs "Become a WordPress Developer: Unlocking Power With Code". Dzięki niemu poznam PHP w praktycznym zastowowaniu. Kurs w języku angielskim!
 
 _[Zapraszam do kontaktu](https://bartoszstpiczynski.pl/contact) osoby poszukujące developera z kompleksowym podejściem do tworzenia stron internetowych!_
